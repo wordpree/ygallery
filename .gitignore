@@ -8,7 +8,7 @@ wp-content/*
 !wp-content/themes
 
 #ignore node modules and cash files
-wp-content/themes/workflow/node_modules 
+wp-content/themes/ygallery/workflow/node_modules 
 *.sass-cache
 
 #ignore specific themes
