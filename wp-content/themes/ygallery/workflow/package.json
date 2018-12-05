@@ -1,0 +1,49 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "build up a gallery wp theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wordpree/ygallery.git"
+  },
+  "keywords": [
+    "wordpress",
+    "gallery"
+  ],
+  "author": "Hai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wordpree/ygallery/issues"
+  },
+  "homepage": "https://github.com/wordpree/ygallery#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.2",
+    "browser-sync": "^2.26.3",
+    "cli": "^1.0.1",
+    "del": "^3.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-jshint": "^2.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-stats": "0.0.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-util": "latest",
+    "jshint": "^2.9.6",
+    "path": "^0.12.7",
+    "run-sequence": "^2.2.1"
+  }
+}
