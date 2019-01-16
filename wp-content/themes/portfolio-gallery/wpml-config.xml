@@ -1,0 +1,12 @@
+<wpml-config>
+  <admin-texts>
+    <key name="portfolio_gallery_options">
+      <key name="seo_home_titletext" />
+      <key name="seo_home_descriptiontext" />
+      <key name="seo_home_keywordstext" />
+      <key name="logo_text" />
+      <key name="footer_text" />
+      <key name="header_for_links" />
+    </key>
+  </admin-texts>  
+</wpml-config>
